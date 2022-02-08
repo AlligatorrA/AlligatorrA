@@ -23,6 +23,6 @@ pursuing skills for:-
 - 😄 Pronouns: ...🤔🤔🤔
 - ⚡ Fun fact: Biotech Student... no fun facts about me....😂😂😂
 
- > **<p align="center">DNA with _htrt_ gene</p>**
- > **<p align="center">Comp With _CLI_ screen...</p>**
+ > **<p align="center">"DNA with _htrt_ gene</p>**
+ > **<p align="center">Comp With _CLI_ screen..."</p>**
     
