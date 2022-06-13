@@ -7,14 +7,14 @@ I am **_Anand Raj_**, Leaning *Web Debelopment* and Creating exciting Projects..
 I am 1st year student of BSc **Biotechnology** at sk Lohanda college,
 extremely motivated to expand knowledge as wide as universe 🌑 expending every second ....🙃😇😇😇
 pursuing skills for:-
- ## Front-End:- HTML5, CSS3, ECMAScript_6, Flask, React js
- ## Back-End:-NODE_JS, Python
+ ## Front-End:- HTML5, CSS3, ECMAScript_6, React js
+ ## Back-End:-...,
  Since Aug /21 I am Continuously and eagerly learning and Practicing web Development,
  Gathering and applying knowledges to build and understand web development.as much as possible. 
  
 
 
-- 🔭 I’m currently working on ... 🤔🤔🤔
+- 🔭 I’m currently working on ...Fresher
 - 🌱 Currently learning **Full-Stack Development**
 - 👯 I’m looking to collaborate on ...🤔🤔🤔
 - 🤔 I’m looking for help with ...🤔🤔🤔
